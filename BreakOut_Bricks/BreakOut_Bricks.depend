@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699629634 source:/home/bossmonster/Documents/Jason Douma SCS4U/BreakOut_Bricks/main.cpp
+	<SFML/Graphics.hpp>
+	<ctime>
+	<iostream>
+	<SFML/Audio.hpp>
+
